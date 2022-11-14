@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    text-align: center;
+    margin: 15px auto;
+}
+
+.navbar-brand img {
+    width: 450px;
+    height: 20px;
+}
+
+.col input {
+    padding-left: 150px;
+}
+
+.btn {
+    margin-left: auto;
+    
+}
+
+
+.info {
+    margin-left: 250px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    
+}
+
+.card-body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+.name-menu {
+    font-size: 14px;
+    color: #626262;
+}
+
+.time {
+    font-size: 13px;
+}
+
+.card {
+   
+    line-height: 5px;
+    text-align: left;
+    margin: 20px;
+}
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.logo img {
+    width: 191px;
+    height: 100px;
+    margin-left: 155px;
+}
+
+.hr-line {
+    width: 956px;
+    border-top: 1px solid #979797;
+    height: 3px;
+    
+}
+
+.dropdown button{
+    width: 227px;
+    height: 40px;
+    font-size: 13px;
+}
+
+.world img {
+    width: 15px;
+    height: 15px;
+}
+
+.dropdown-menu a {
+    width: 215px;
+    height: 32px;
+    font-size: 13px;
+    background: #666464;
+    color: white;
+}
+
+.info1 img {
+    width: 10px;
+    height: 19px;
+}
+
+.info1 {
+     font-size: 16px;
+     color: white;
+}
+
+.container2 {
+    background-color: #262626;
+}
+
+.icons img {
+    width: 24px;
+    height: 24px;
+    margin: 3px;
+    margin-top: 2px;
+}
+
+.icons {
+    margin-bottom: 5px;
+}
+
+.blocks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.block2 li {
+    color: white;
+    font-size: 13px;
+    list-style-type: none;
+    margin-bottom: 2em;
+}
+
+.block3 li {
+    color: white;
+    font-size: 13px;
+    list-style-type: none;
+    margin-bottom: 2em;
+}
+
+.block2 a {
+    color: white;
+}
+
+.block3 a {
+    color: white;
+}
+
+.image {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image1 {
+    padding: 0 20px;
+}
+
+.text0 li {
+    list-style-type: none;
+    font-size: 11px;
+    display: inline-block;
+    padding: 0 30px;
+    justify-content: center;
+}
+
+.text0{
+    padding: 20px 200px;
+    margin: 0 120px;
+}
+
+.text0 a {
+    color: white;
+}
